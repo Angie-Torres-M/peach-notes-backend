@@ -1,0 +1,19 @@
+# Java / Spring
+target/
+build/
+.gradle/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+bin/
+out/
+.vscode/
+.DS_Store
+ECHO est  activado.
+# Logs
+*.log
+ECHO est  activado.
+# Env files
+.env
