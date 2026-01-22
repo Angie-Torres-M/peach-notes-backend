@@ -17,3 +17,13 @@ ECHO est  activado.
 ECHO est  activado.
 # Env files
 .env
+/.metadata/
+
+# Eclipse / Gradle caches
+.metadata/
+.classpath
+.project
+.settings/
+bin/
+.gradle/
+build/
